@@ -61,7 +61,7 @@ fbid = []
 ##### MASUK #####
 def masuk():
 	os.system('clear')
-	print logo
+	print logo ("""
 	print ('\033[0;91m╔═══════════════════════════════════════════════════════════════╗')
 	print ('\033[0;97m   1.\033[0;97m Login Via Token Facebook')
 	print ('\033[0;97m   2.\033[0;97m Login Via Cookie Facebook')
